@@ -12,4 +12,6 @@
 
 3- run migration or use sql file stored in database folder 
 
-4- run this command ( php artisan serve ) 
+4- run this command ( php artisan key:generate ) 
+
+5- run this command ( php artisan serve ) 
